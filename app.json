@@ -1,15 +1,15 @@
 {
     "name": "Kerm_Md-V2",
     "description": "Simple WhatsApp Bot🤖",
-    "logo": "https://telegra.ph/file/dc5657036b53a3613d4f7.jpg",
-    "keywords": ["Kg Tech", "Kerm Md", "Kerm_Md-V2"],
+    "logo": "https://i.imgur.com/Gw7jtD0.jpeg",
+    "keywords": ["TOpPLUG", "Kerm Md", "Kerm_Md-V2"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Kg Tech",
+        "value": "TOpPLUG",
         "required": true
       },
   
@@ -20,7 +20,7 @@
       },
       "USER_IMAGES": {
         "description": "Menu Images",
-        "value": "https://telegra.ph/file/fa9dfa92fdbf649bc927d.jpg",
+        "value": "https://i.imgur.com/Gw7jtD0.jpeg",
         "required": false
       },
   
@@ -35,7 +35,7 @@
       },
       "THUMB_IMAGE": {
         "description": "Thumbnail",
-        "value": "https://telegra.ph/file/fa9dfa92fdbf649bc927d.jpg"
+        "value": "https://i.imgur.com/Gw7jtD0.jpeg"
       },
       "BOT_NAME": {
         "description": " NAME FOR BOT",
@@ -45,7 +45,7 @@
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
         "required": false,
-        "value": "Africa/Douala"
+        "value": "Africa/Kenya"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -103,7 +103,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "237656520674"
+        "value": "254112386921"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -120,7 +120,7 @@
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "KgTech",
+        "value": "TOpPLUG",
         "required": false
       }  
   },
