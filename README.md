@@ -9,14 +9,14 @@
 <p align="center">
 <img src="https://i.imgur.com/Gw7jtD0.jpeg"/>       
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+🐼🪳📱🐼🥷☣️🐞🪲🐛🕷️-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+🐼🥷 CYBERPUNK+AND+🗽TOpPLUG;RELEASED+DATE+07%2F7%2F2024."                               alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=25&duration=4000&pause=1000&random=false&width=435&lines=+•__I'M+🐼🪳📱🐼🥷☣️🐞🪲🐛🕷️-+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+🐼🥷 CYBERPUNK+AND+🗽TOpPLUG;RELEASED+DATE+05%2F9%2F2024."                               alt="Typing SVG" /></a>
 </p> 
 <p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-KG_TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-🐼🗽🥷TOpPLUG🗽🐼🥷-red.svg?style=for-the-badge&logo=github"></a>
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Hubdarkweb"><img title="Author" src="https://img.shields.io/badge/KGTECH-black?style=for-the-badge&logo=Github"></a> <a href="https://t.me/Hub7s"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=Telegram"></a> <a href="https://wa.me/254112386921"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=Whatsapp">
+<a href="https://github.com/Hubdarkweb"><img title="Author" src="https://img.shields.io/badge/🐼🗽🥷 CYBERPUNK💻🐼🗽🥷-black?style=for-the-badge&logo=Github"></a> <a href="https://t.me/Hub7s"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=Telegram"></a> <a href="https://wa.me/254112386921"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=Whatsapp">
 <p/>
 <p align="center">
 <a href="https://github.com/Hubdarkweb/KERM_MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hubdarkweb/KERM_MD-V2?color=white&style=flat-square"></a>
